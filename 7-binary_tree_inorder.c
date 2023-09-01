@@ -5,6 +5,8 @@
  * @tree:  dfgsg hdfgh fdhjdfgsdf sdf gsdf g
  * @func:  dsfgsdfg hdfhgj dfghjdfg sdfg sdfg s
  */
+
+
 void binary_tree_inorder(const binary_tree_t *tree, void (*func)(int))
 {
 	if (!tree || !func)
