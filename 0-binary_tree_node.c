@@ -3,7 +3,7 @@
 
 
 /**
- * dfg sdfg sdfg sdfg
+ * binary_tree_node - creates a binary tree node
  * @parent: dfg sdfgsdfg sdfate
  * @value: dfs gsdfgsd f gsdfode
  *
