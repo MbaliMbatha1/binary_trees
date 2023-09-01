@@ -1,7 +1,6 @@
 #include "binary_trees.h"
 
 /**
- * 
  * binary_tree_is_root - sdf agsdf gsdfg sdf
  * @node: df gsdfh fgyh fgh fdg
  *
