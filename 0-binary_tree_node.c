@@ -4,10 +4,10 @@
 
 /**
  * dfg sdfg sdfg sdfg
- * dfg sdfgsdfg sdfate
- *dfs gsdfgsd f gsdfode
+ * @parent: dfg sdfgsdfg sdfate
+ * @value: dfs gsdfgsd f gsdfode
  *
- * df gsdfg dsfg sdfg sdnode
+ * Return: df gsdfg dsfg sdfg sdnode
  *         NULL on failure
  */
 
