@@ -1,7 +1,6 @@
 #include "binary_trees.h"
 
 /**
- *
  * binary_tree_preorder - fdgh fghjhgjkg ijk lkghj ghj 
  * @tree: d fghjfhgj fghjk fgh j
  * @func: gf hfghkj fhgj fgsdf gsdf 
