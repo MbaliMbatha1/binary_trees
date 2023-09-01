@@ -5,10 +5,13 @@
  * @parent: fsdle sdf sdl fks dnfsl dnfsd fsnd
  * @value:  dfshksd sk dkvc bdsi beop 
  *
+ *
  * Return: sdf slbd fs skdb sd
  *         NULL on fai
  *         NULL if par is NULL
  */
+
+
 binary_tree_t *binary_tree_insert_left(binary_tree_t *parent, int value)
 {
 	binary_tree_t *new;
